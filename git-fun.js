@@ -3,3 +3,7 @@ function add(a,b) {
 }
 
 console.log(add(5,8));
+
+function multiply(a,b) {
+  return a*b
+}
